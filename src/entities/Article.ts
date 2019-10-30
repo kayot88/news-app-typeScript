@@ -4,6 +4,11 @@ export interface Article {
   shortDescription: string;
   smallImage: string;
   rating: number;
-  ratingCount: number
+  ratingCount: number;
+}
 
+export interface FullArticle {
+  id: string;
+  content: string;
+  bigImage: string;
 }

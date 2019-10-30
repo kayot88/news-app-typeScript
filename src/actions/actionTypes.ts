@@ -11,7 +11,7 @@ import {
   ADD_COMPLAIN
 } from '../constants/actionsConstants';
 import { Article } from '../entities/Article';
-import { ArticleActionType } from './actions';
+import { ArticleActionType } from './actionTypes';
 
 export interface ActionTypeBase {
   type: string;

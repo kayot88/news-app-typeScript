@@ -44,28 +44,28 @@
   "fullArticles": [
     {
       "id": 1,
-      "content": "Content for article 1",
-      "bigImage": ""
+      "content": "Content for article 1.....",
+      "bigImage": "https://cdn.evilmartians.com/front/posts/optimizing-react-virtual-dom-explained/cover-a1d5b40.png"
     },
     {
       "id": 2,
-      "content": "Content for article 2",
-      "bigImage": ""
+      "content": "Content for article 2.....",
+      "bigImage": "https://cdn.evilmartians.com/front/posts/optimizing-react-virtual-dom-explained/cover-a1d5b40.png"
     },
     {
       "id": 3,
-      "content": "Content for article 3",
-      "bigImage": ""
+      "content": "Content for article 3.....",
+      "bigImage": "https://cdn.evilmartians.com/front/posts/optimizing-react-virtual-dom-explained/cover-a1d5b40.png"
     },
     {
       "id": 4,
-      "content": "Content for article 4",
-      "bigImage": ""
+      "content": "Content for article 4.....",
+      "bigImage": "https://cdn.evilmartians.com/front/posts/optimizing-react-virtual-dom-explained/cover-a1d5b40.png"
     },
     {
       "id": 5,
-      "content": "Content for article 5",
-      "bigImage": ""
+      "content": "Content for article 5.....",
+      "bigImage": "https://cdn.evilmartians.com/front/posts/optimizing-react-virtual-dom-explained/cover-a1d5b40.png"
     }
   ]
 }
