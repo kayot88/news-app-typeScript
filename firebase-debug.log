@@ -1,13 +1,13 @@
-[debug] [2019-10-29T19:05:22.046Z] ----------------------------------------------------------------------
-[debug] [2019-10-29T19:05:22.049Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\User\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
-[debug] [2019-10-29T19:05:22.050Z] CLI Version:   7.6.2
-[debug] [2019-10-29T19:05:22.050Z] Platform:      win32
-[debug] [2019-10-29T19:05:22.050Z] Node Version:  v10.16.3
-[debug] [2019-10-29T19:05:22.051Z] Time:          Tue Oct 29 2019 21:05:22 GMT+0200 (Eastern European Standard Time)
-[debug] [2019-10-29T19:05:22.051Z] ----------------------------------------------------------------------
-[debug] [2019-10-29T19:05:22.051Z] 
-[debug] [2019-10-29T19:05:22.068Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
-[debug] [2019-10-29T19:05:22.070Z] > authorizing via signed-in user
+[debug] [2019-10-30T11:40:37.241Z] ----------------------------------------------------------------------
+[debug] [2019-10-30T11:40:37.244Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\User\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2019-10-30T11:40:37.244Z] CLI Version:   7.6.2
+[debug] [2019-10-30T11:40:37.244Z] Platform:      win32
+[debug] [2019-10-30T11:40:37.244Z] Node Version:  v10.16.3
+[debug] [2019-10-30T11:40:37.245Z] Time:          Wed Oct 30 2019 13:40:37 GMT+0200 (Eastern European Standard Time)
+[debug] [2019-10-30T11:40:37.245Z] ----------------------------------------------------------------------
+[debug] [2019-10-30T11:40:37.245Z] 
+[debug] [2019-10-30T11:40:37.252Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2019-10-30T11:40:37.253Z] > authorizing via signed-in user
 [info] 
      ######## #### ########  ######## ########     ###     ######  ########
      ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
@@ -19,3 +19,10 @@ You're about to initialize a Firebase project in this directory:
 
   D:\last trash\GitHub\js\news-app-ts
 
+[info] 
+=== Project Setup
+[info] 
+[info] First, let's associate this project directory with a Firebase project.
+[info] You can create multiple project aliases by running firebase use --add, 
+[info] but for now we'll just set up a default project.
+[info] 
