@@ -1,0 +1,23 @@
+version: 2
+updates:
+- package-ecosystem: npm
+  directory: "/"
+  schedule:
+    interval: daily
+  open-pull-requests-limit: 10
+  ignore:
+  - dependency-name: workbox-webpack-plugin
+    versions:
+    - 6.0.2
+    - 6.1.1
+  - dependency-name: html-webpack-plugin
+    versions:
+    - 4.5.0
+    - 4.5.1
+  - dependency-name: sass-loader
+    versions:
+    - 10.1.0
+    - 10.1.1
+  - dependency-name: fs-extra
+    versions:
+    - 9.0.1
